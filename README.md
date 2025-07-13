@@ -12,9 +12,9 @@ I’m deeply fascinated by how data tells stories, shapes strategy, and sparks a
 ---
 
 ## 🔍 A Bit About Me
-- 🎓 Graduate of Economics  
-- 🏦 Interned at the Bank of Agriculture, Kaduna  
-- 📜 Chartered Accountant (ACA/ACCA etc.)  
+- 🎓 Monetary Economist  
+- 🏦 Interned at the Bank of Agriculture.  
+- 📜 Chartered Accountant (ACA/ACCA)  
 - 🧮 Exploring data analytics, blockchain analysis & decentralized finance trends  
 - 🧠 Strong analytical mindset and storytelling skills  
 
@@ -22,9 +22,9 @@ I’m deeply fascinated by how data tells stories, shapes strategy, and sparks a
 
 ## 🛠 Tools & Tech I Work With
 - *Data Analysis*: Python (Pandas, NumPy), SQL
-- *Visualization*: Tableau, Power BI
+- *Visualization*: Power BI, Excel, Tableau
 - *Blockchain & Web3*: Dune Analytics, Etherscan, The Graph
-- *Other*: Excel, Git, GitHub, Google Workspace
+- *Other*: Git, GitHub, Google Workspace
 
 ---
 
@@ -47,23 +47,11 @@ I’m deeply fascinated by how data tells stories, shapes strategy, and sparks a
 ## 🤝 Let's Connect
 I’m open to collaborations, internships, and roles where data can drive meaningful impact.
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Medium](https://medium.com/@yourusername)
-- 📧 yourname@email.com
+- [LinkedIn](https://www.linkedin.com/in/modupeola-abd-mateen)
+- [Medium](https://medium.com/@kaymateenz)
+- 📧 modupeolaabdulmateen@gmail.com
 
 ---
 
 > “Data means little without action — let’s build something that matters.”<!--
-**DRMATEEN/DRMATEEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
