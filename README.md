@@ -12,11 +12,11 @@ I’m deeply fascinated by how data tells stories, shapes strategy, and sparks a
 ---
 
 ## 🔍 A Bit About Me
-- 🎓 Monetary Economist  
-- 🏦 Interned at the Bank of Agriculture.  
-- 📜 Chartered Accountant (ACA/ACCA)  
-- 🧮 Exploring data analytics, blockchain analysis & decentralized finance trends  
-- 🧠 Strong analytical mindset and storytelling skills  
+-  Monetary Economist  
+-  Interned at the Bank of Agriculture.  
+-  Chartered Accountant (ACA/ACCA)  
+-  Exploring data analytics, blockchain analysis & decentralized finance trends  
+-  Strong analytical mindset and storytelling skills  
 
 ---
 
